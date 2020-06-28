@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/revolent-int/static/css/main.f706b7dd.chunk.css",
+    "main.js": "/revolent-int/static/js/main.ef2489ce.chunk.js",
+    "main.js.map": "/revolent-int/static/js/main.ef2489ce.chunk.js.map",
+    "runtime-main.js": "/revolent-int/static/js/runtime-main.2d13be3a.js",
+    "runtime-main.js.map": "/revolent-int/static/js/runtime-main.2d13be3a.js.map",
+    "static/js/2.cb257933.chunk.js": "/revolent-int/static/js/2.cb257933.chunk.js",
+    "static/js/2.cb257933.chunk.js.map": "/revolent-int/static/js/2.cb257933.chunk.js.map",
+    "index.html": "/revolent-int/index.html",
+    "precache-manifest.930aa985137330a157020f43d594666d.js": "/revolent-int/precache-manifest.930aa985137330a157020f43d594666d.js",
+    "service-worker.js": "/revolent-int/service-worker.js",
+    "static/css/main.f706b7dd.chunk.css.map": "/revolent-int/static/css/main.f706b7dd.chunk.css.map",
+    "static/js/2.cb257933.chunk.js.LICENSE.txt": "/revolent-int/static/js/2.cb257933.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d13be3a.js",
+    "static/js/2.cb257933.chunk.js",
+    "static/css/main.f706b7dd.chunk.css",
+    "static/js/main.ef2489ce.chunk.js"
+  ]
+}
